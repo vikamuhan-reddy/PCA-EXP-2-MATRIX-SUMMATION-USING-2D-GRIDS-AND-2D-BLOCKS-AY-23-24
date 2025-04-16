@@ -258,4 +258,4 @@ return (0);
 ![output](./Screen%20Shot%201947-01-26%20at%2010.31.39.png)
 
 ## RESULT:
-The host took 0.88581 seconds to complete it’s computation, while the GPU outperforms the host and completes the computation in 0.05995pwd seconds. Therefore, float variables in the GPU will result in the best possible result. Thus, matrix summation using 2D grids and 2D blocks has been performed successfully.
+The host took 0.88581 seconds to complete it’s computation, while the GPU outperforms the host and completes the computation in 0.05995 seconds. Therefore, float variables in the GPU will result in the best possible result. Thus, matrix summation using 2D grids and 2D blocks has been performed successfully.
